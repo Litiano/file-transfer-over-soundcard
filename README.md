@@ -14,11 +14,11 @@ The source code consists of a multitude of programs.
 * analyze_psk does it for PSK-encoded data.
 
 The original articles can be found here:
-http://awesomegeekblog.blogspot.com/2009/04/file-transfer-over-sound-card.html
-http://awesomegeekblog.blogspot.com/2009/04/file-transfer-over-sound-card-ii-phase.html
+[file transfer over sound card](http://awesomegeekblog.blogspot.com/2009/04/file-transfer-over-sound-card.html)
+[file transfer over sound card ii phase](http://awesomegeekblog.blogspot.com/2009/04/file-transfer-over-sound-card-ii-phase.html)
 
 However, due to changes tot he blogspot platform, the formatting doesn't work very well. I've joined the two into one well-formatted article:
 
-http://awesomegeekblog.blogspot.se/2013/11/file-transfer-over-soundcard-directors.html
+[file transfer over soundcard directors](http://awesomegeekblog.blogspot.se/2013/11/file-transfer-over-soundcard-directors.html)
 
 The code is public domain.
